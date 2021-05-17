@@ -60,7 +60,7 @@
 /**
  * Max length of a device file
  */
-#define DEV_FILE_SIZE		16
+#define DEV_FILE_SIZE		15
 
 /**
  * Max accepted size for a user specified device file
